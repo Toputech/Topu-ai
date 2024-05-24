@@ -75,10 +75,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/Toputech/Topu-md.git"
+      "url": "git+https://github.com/Toputech/Topu-ai.git"
    },
    "bugs": {
-      "url": "https://github.com/Toputech/Topu-md/issues"
+      "url": "https://github.com/Toputech/Topu-ai/issues"
    },
-   "homepage": "https://github.com/Toputech/Topu-md#readme"
+   "homepage": "https://github.com/Toputech/Topu-ai#readme"
 }
