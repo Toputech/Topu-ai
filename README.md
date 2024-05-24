@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> TOPU MD V1 </h1>
+ <h1 align="center"> 𝚻𝚯𝚸𝐔 𝚳𝐃 </h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -43,12 +43,12 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/Toputech/Topu-md/fork)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/Toputech/Topu-ai/fork)
 
 2,GET A SESSION BY PAIR CODE
 [`Get session`](https://topuumd-c0fba67104c6.herokuapp.com/pair)
  
- 3,Deploy TOPU MD on heroku***[`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/Toputech/Topu-md)***
+ 3,Deploy TOPU MD on heroku***[`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/Toputech/Topu-ai)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
