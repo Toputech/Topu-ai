@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+GU<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center"> 𝚻𝚯𝚸𝐔 𝚳𝐃 </h1>
 
@@ -16,7 +16,7 @@
 
 
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/8dace2d24b82568c29e19.jpg" alt="01" border="0" /></a>                     
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -46,7 +46,7 @@ HOW TO REACH THE OWNER?
 1, Star the repo up there then click Here To   [`FORK`](https://github.com/Toputech/Topu-ai/fork) forking the repo is compulsory
 
 2,GET A SESSION BY PAIR CODE
-[`Get session`](https://topuumd-c0fba67104c6.herokuapp.com/pair)
+[`Get session`](https://topumd-pairing-code-158d6ce8af42.herokuapp.com/pair)
  
  3,Deploy TOPU MD on heroku***[`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/Toputech/Topu-ai)***
 
