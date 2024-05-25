@@ -1,5 +1,5 @@
 FROM quay.io/sampandey001/secktor
-RUN git clone https://github.com/Toputech/Topu-md/root/Toputech
+RUN git clone https://github.com/Toputech/Topu-ai/root/Toputech
 WORKDIR /root/Toputech
 RUN npm install
 EXPOSE 8000
