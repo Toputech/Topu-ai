@@ -1,4 +1,4 @@
-GU<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+if you deployed now update.. only yourself use your prefix then update.. eg. my prefix is ! so i will !update <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center"> 𝚻𝚯𝚸𝐔 𝚳𝐃 </h1>
 
