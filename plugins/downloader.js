@@ -2103,7 +2103,7 @@ smd({
  /** PLAYLIST */
  const _0xf3b3b9 = _0xc1f2;
  function _0xe8a3() {
-   const _0x1872b6 = ["audio", "random", "length", ".mp4", "6710240SkWnCZ", "readFileSync", "Downloads video from playlist.", "<yt playlist url>", "title", "videos", "sendMessage", "2179701ijsDnM", "botname", "4565025fjxWjZ", "pushName", "168uBIxwJ", "document", "includes", "216vVeWdZ", "itag", "\n ⿻ File Size : ", "reply", "chat", "11410952QXDvWH", "mp3", " MB", "614495gBYQxj", "split", "toLowerCase", "floor", "downloader", "videoDetails", "audio/mpeg", "videoId", "This Process will take a bit time.", "2487090FcjOyi", "❌ 𝖍𝖚𝖚𝖘𝖍! 𝖋𝖎𝖑𝖊 𝖇𝖎𝖌𝖌𝖊𝖗 𝖙𝖍𝖆𝖓 250 𝖒𝖇 "pipe", "statSync", "mb.", "test", "log", "lengthSeconds", "getInfo", "61665AJJjOP", "./temp/", "unlinkSync"];
+   const _0x1872b6 = ["audio", "random", "length", ".mp4", "6710240SkWnCZ", "readFileSync", "Downloads video from playlist.", "<yt playlist url>", "title", "videos", "sendMessage", "2179701ijsDnM", "botname", "4565025fjxWjZ", "pushName", "168uBIxwJ", "document", "includes", "216vVeWdZ", "itag", "\n ⿻ File Size : ", "reply", "chat", "11410952QXDvWH", "mp3", " MB", "614495gBYQxj", "split", "toLowerCase", "floor", "downloader", "videoDetails", "audio/mpeg", "videoId", "This Process will take a bit time.", "2487090FcjOyi", "❌ 𝖍𝖚𝖚𝖘𝖍! 𝖋𝖎𝖑𝖊 𝖇𝖎𝖌𝖌𝖊𝖗 𝖙𝖍𝖆𝖓 250 𝖒𝖇" "pipe", "statSync", "mb.", "test", "log", "lengthSeconds", "getInfo", "61665AJJjOP", "./temp/", "unlinkSync"];
    _0xe8a3 = function () {
      return _0x1872b6;
    };
