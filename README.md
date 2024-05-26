@@ -17,7 +17,19 @@ if you deployed now update.. only yourself use your prefix then update.. eg. my 
 
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/04e09c20e70de180ee319.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
- 
+ ## 🚀 `Bot Features`
+| Feature                          | Description                                             | Available    | Version    |
+| ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
+| Multi-Device Support             | Operate the bot on multiple devices simultaneously     | ✅           | 2.0        |
+| AI Photo Enhancement             | Enhance photos using advanced AI algorithms            | ✅           | 2.0        |
+| Downloader Commands              | Download various types of content from the internet     | ✅           | 2.0        |
+| Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 2.0        |
+| Logo Commands                    | Generate logos using specialized commands               | ✅           | 2.0        |
+| Anime Commands                   | Explore anime-related commands and features              | ✅           | 2.0        |
+| Economy Menu                     | Engage in economic activities within the bot            | ✅           | 2.0        |
+| Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 2.0        |
+| Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 2.0        |
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Support 
@@ -103,14 +115,10 @@ Please Use Node Version Higher to Get The Best Performance.
 
 
 ## THANKS TO
-[Naveed Dogar]
-
-
-[France King]
+[france king]
 
 [Venocyber]
 
-[Morice]
 
 [king ibrahim]
 
