@@ -38,7 +38,7 @@ global.save_status_from = process.env.SAVE_STATUS_FROM || "";
 global.read_status_from = process.env.READ_STATUS_FROM || "";
 
 global.api_smd = "https://api-smd-1.vercel.app";
-global.scan = "";
+global.scan = "https://rb.gy/nl69nj;
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
@@ -67,7 +67,7 @@ module.exports = {
   LANG: (process.env.THEME || "TOPU").toUpperCase(),
 };
 global.rank = "updated";
-global.isMongodb = false;
+global.isMongodb = "true";
 let file = require.resolve(__filename);
 fs.watchFile(file, () => {
   fs.unwatchFile(file);
