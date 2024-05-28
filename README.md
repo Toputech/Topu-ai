@@ -50,7 +50,7 @@ if you deployed now update.. only yourself use your prefix then update.. eg. my 
 
 3. Deploy on heroku
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Toputech/Topu-ai' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Toputech/Topu-ai' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -88,12 +88,7 @@ HOW TO REACH THE OWNER?
 
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
- <h1 align="center">
-
- NOTE: Makesure you follow my channel for latest updates for TOPU MD bot and free CC
+## Makesure you follow my channel for latest updates for TOPU MD bot and free CC
  [`WA CHANNEL`](https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r)
 
 
@@ -105,7 +100,7 @@ HOW TO REACH THE OWNER?
 ## Thankyou for choosing TOPU MD bot 
 
 
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Contributions
 
