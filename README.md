@@ -31,7 +31,41 @@ if you deployed now update.. only yourself use your prefix then update.. eg. my 
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 2.0        |
 
 
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+#### SETUP
+
+1. Fork the repo
+    <br>
+<a href='https://github.com/Toputech/Topu-ai/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+
+
+2. Get Session ID (By pairing code)
+   > 
+     <a href='https://topumd-pairing-code-158d6ce8af42.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+
+3. Deploy on heroku
+    <br>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Toputech/Topu-ai' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+   
+## Supported Versions Node Versions to run this bot
+
+Please Use Node Version Higher to Get The Best Performance.
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 14.x   | :x: |
+| 16.x   | ❗                |
+| 18.x   | :white_check_mark: |
+| 20.x   | ✅                |
+
 ## Support 
 ## Join my channel for updates and get free cc
 <a href="https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r" target="_blank">
@@ -52,15 +86,6 @@ HOW TO REACH THE OWNER?
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## STEPS TO DEPLOY YOUR BOT
-
-
-1, Star the repo up there then click Here To   [`FORK`](https://github.com/Toputech/Topu-ai/fork) forking the repo is compulsory
-
-2,GET A SESSION BY PAIR CODE
-[`Get session`](https://topumd-pairing-code-158d6ce8af42.herokuapp.com/pair)
- 
- 3,Deploy TOPU MD on heroku***[`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/Toputech/Topu-ai)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -73,19 +98,11 @@ HOW TO REACH THE OWNER?
 
 
 
-
-
-
-
-
-
-
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
    
-<p align="center">Thankyou for choosing TOPU MD bot 🤣😃😃😃😃😂🤣🤣😀😀😁👴
+## Thankyou for choosing TOPU MD bot 
 
 
 
@@ -96,17 +113,7 @@ HOW TO REACH THE OWNER?
 Contributions to *TOPU-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 # Security Notice
-
-## Supported Versions Node Versions to run this bot
-
-Please Use Node Version Higher to Get The Best Performance.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 14.x   | :x: |
-| 16.x   | ❗                |
-| 18.x   | :white_check_mark: |
-| 20.x   | ✅                |
+TOPU Md is safe for your WhatsApp and heroku
 
 ## Reporting a Vulnerability
 
