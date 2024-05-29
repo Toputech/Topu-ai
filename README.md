@@ -45,7 +45,7 @@ if you deployed now update.. only yourself use your prefix then update.. eg. my 
 
 2. Get Session ID (By pairing code)
    > 
-     <a href='https://topumd-pairing-code-158d6ce8af42.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+     <a href='https://topu-md-pairing-code-c02c2ad0f897.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 3. Deploy on heroku
