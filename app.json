@@ -121,5 +121,5 @@
     { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
     { "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"} 
   ] 
-        
+    "stack": "heroku-22"      
   }
