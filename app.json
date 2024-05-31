@@ -32,7 +32,7 @@
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required": false,
-      "value": "Africa/Dar es salaam"
+      "value": "Africa/Dodoma"
     },
     "READ_COMMAND": {
       "description": " Read bot cmds",
