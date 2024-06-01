@@ -1,5 +1,5 @@
 {
-  "name": "𝚻𝚯𝚸𝐔-𝚳𝐃",
+  "name": "TOPU-Md",
   "description": "Simple WhatsApp Bot",
   "logo": "https://telegra.ph/file/04e09c20e70de180ee319.jpg",
   "keywords": ["Topu-md", "TOPU", "TOPU MD","TOPU MD wabot","Topu","Toputech"],
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝖙𝖔𝖕𝖚 𝖙𝖊𝖈𝖍",
+      "value": "topu tech",
       "required": true
     },
 
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝚻𝚯𝚸𝐔 𝚳𝐃"
+      "value": "TOPU Md"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required": false,
-      "value": "Africa/Dodoma"
+      "value": "Africa/Dar es salaam"
     },
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -76,7 +76,7 @@
     },
      "OPEN_API_KEY": {
       "description": "put your OPEN_API_KEY here to access chatgpt.",
-      "value": "sk-proj-nzj66xdSVURMqSV8EBvpT3BlbkFJrw4a1XClnXyLUzoVftJV"
+      "value": "sk-proj-1OXigIjDK8D0kcA79HdeT3BlbkFJEDHPpT2duPSj9OSpIEd0"
     }, 
     "READ_MESSAGE": {
       "description": "Fill the value true if you want bot to read all messages.",
@@ -106,19 +106,18 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝖙𝖔𝖕𝖚 𝖙𝖊𝖈𝖍",
+      "value": "Topu",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "тσρυ ∂мн",
+      "value": "Topu dmh",
       "required": false
     }
   },
-  "addons": [{ "plan": "heroku-postgresql" }],
+    "addons": [{ "plan": "heroku-postgresql" }],
   "buildpacks": [
     { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
-    { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" },
-    { "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"} 
-  ] 
-    }
+    { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
+  ]
+  }
