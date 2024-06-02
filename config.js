@@ -6,18 +6,18 @@ global.audio = "";
 global.video = "";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "topudmh@gmail.com";
-global.location = "Arusha,Tanzania.";
+global.email = "Topudmh@gmail.com";
+global.location = "Njombe,Tanzania.";
 global.mongodb = process.env.MONGODB_URI || "";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
-global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Dodoma";
+global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Dar es salaam";
 global.github = process.env.GITHUB || "https://github.com/Toputech/Topu-ai";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/04e09c20e70de180ee319.jpg";
-global.devs = "255673750170";
+global.devs = "255625774543";
 global.sudo = process.env.SUDO || "255673750170";
 global.owner = process.env.OWNER_NUMBER || "255673750170";
 global.style = process.env.STYLE || "3";
@@ -28,7 +28,7 @@ global.disablepm = process.env.DISABLE_PM || "false";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "true";
 global.userImages = process.env.USER_IMAGES || "";
-global.waPresence = process.env.WAPRESENCE || "composing";
+global.waPresence = process.env.WAPRESENCE || "online";
 global.readcmds = process.env.READ_COMMAND || "false";
 global.readmessage = process.env.READ_MESSAGE || "false";
 global.readmessagefrom = process.env.READ_MESSAGE_FROM || "";
@@ -38,7 +38,7 @@ global.save_status_from = process.env.SAVE_STATUS_FROM || "";
 global.read_status_from = process.env.READ_STATUS_FROM || "";
 
 global.api_smd = "https://api-smd-1.vercel.app";
-global.scan =""
+global.scan = "https://rb.gy/nl69nj";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
@@ -48,10 +48,10 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "𝖂𝖔𝖜 𝖙𝖔𝖕𝖚 𝖒𝖉 𝖍𝖆𝖛𝖊 𝖏𝖚𝖘𝖙 𝖌𝖊𝖓𝖊𝖗𝖆𝖙𝖊𝖉 𝖆 𝖓𝖊𝖜 𝖋𝖎𝖑𝖊",
+  caption: process.env.CAPTION || "Wow-TOP-Md-has-just-generated-a-new-file",
   author: process.env.PACK_AUTHER || "TOPU",
   packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "𝚻𝚯𝚸𝐔 𝚳𝐃",
+  botname: process.env.BOT_NAME || "TOP-Md",
   ownername: process.env.OWNER_NAME || "TOPU",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
@@ -67,7 +67,7 @@ module.exports = {
   LANG: (process.env.THEME || "TOPU").toUpperCase(),
 };
 global.rank = "updated";
-global.isMongodb = "false";
+global.isMongodb = false;
 let file = require.resolve(__filename);
 fs.watchFile(file, () => {
   fs.unwatchFile(file);
