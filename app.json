@@ -1,5 +1,5 @@
 {
-  "name": "TOPU-Md",
+  "name": "TOP-Md",
   "description": "Simple WhatsApp Bot",
   "logo": "https://telegra.ph/file/04e09c20e70de180ee319.jpg",
   "keywords": ["Topu-md", "TOPU", "TOPU MD","TOPU MD wabot","Topu","Toputech"],
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "TOPU Md"
+      "value": "TOP Md"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -102,7 +102,7 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
