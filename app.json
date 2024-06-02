@@ -1,5 +1,5 @@
 {
-  "name": "TOP-Md",
+  "name": "TOPU-Md",
   "description": "Simple WhatsApp Bot",
   "logo": "https://telegra.ph/file/04e09c20e70de180ee319.jpg",
   "keywords": ["Topu-md", "TOPU", "TOPU MD","TOPU MD wabot","Topu","Toputech"],
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "TOP Md"
+      "value": "TOPU Md"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
