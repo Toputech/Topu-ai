@@ -1,4 +1,4 @@
-if you deployed now update.. only yourself use your prefix then update.. eg. my prefix is ! so i will !update <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center"> 𝚻𝚯𝚸𝐔 𝚳𝐃 </h1>
 
@@ -121,6 +121,7 @@ TOPU Md is safe for your WhatsApp and heroku
 
 [Venocyber]
 
+[gifted tech]
 
 [king ibrahim]
 
