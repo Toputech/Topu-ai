@@ -1,18 +1,18 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> 𝚻𝚯𝚸𝐔 𝚳𝐃 </h1>
+ <h1 align="center"> SLADE 𝚳𝐃 </h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+TOPU+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+TOPUDMH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+SLADE+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+SLADEDMH)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> Introducing TOPU Md, A Simple WhatsApp user BOT, Created by topu Tech.
+<p align="center"> Introducing SLADE Md, A Simple WhatsApp user BOT, Created by slade Tech.
 </p>
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/04e09c20e70de180ee319.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/SLADE-MD-06-10" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
  ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
@@ -36,7 +36,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Toputech/Topu-ai/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Sladetech/Slade-ai/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -47,7 +47,7 @@
 
 3. Deploy on heroku
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Toputech/Topu-ai' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Sladetech/Slade-ai' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -65,7 +65,7 @@ Please Use Node Version Higher to Get The Best Performance.
 
 ## Support 
 ## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r" target="_blank">
+<a href="[(https://whatsapp.com/channel/0029Vah0VO55q08fwahAL61w)]" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -74,7 +74,7 @@ Please Use Node Version Higher to Get The Best Performance.
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me+255673750170">
+   <a href="https://wa.me+254100738384">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
@@ -85,8 +85,8 @@ HOW TO REACH THE OWNER?
 
 
 
-## Makesure you follow my channel for latest updates for TOPU MD bot and free CC
- [`WA CHANNEL`](https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r)
+## Makesure you follow my channel for latest updates for SLADE MD bot and free CC
+ [`WA CHANNEL`](https://whatsapp.com/channel/0029Vah0VO55q08fwahAL61w).
 
 
 
@@ -94,7 +94,7 @@ HOW TO REACH THE OWNER?
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
    
-## Thankyou for choosing TOPU MD bot 
+## Thankyou for choosing SLADE MD bot 
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -102,21 +102,21 @@ HOW TO REACH THE OWNER?
 ## Contributions
 
 
-Contributions to *TOPU-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to *SLADE-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 # Security Notice
-TOPU Md is safe for your WhatsApp and heroku
+SLADE Md is safe for your WhatsApp and heroku
 
 ## Reporting a Vulnerability
 
 
-## powered by TOPU MD
+## powered by SLADE MD
 
 
 ## THANKS TO
 [france king]
 
-[Venocyber]
+[Venocyber Slade]
 
 [gifted tech]
 
@@ -125,7 +125,7 @@ TOPU Md is safe for your WhatsApp and heroku
 ## License
 
 
-The *TOPU-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *SLADE-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *TOPU-MD*  to enhance your Whatsapp more enjoyable
 ☣Powered by TOPU Tech
