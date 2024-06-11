@@ -42,7 +42,7 @@
 
 2. Get Session ID (By pairing code)
    > 
-     <a href='https://fully-20508e8a7163.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+     <a href='https://topumd-pairing-ad9f7edd1018.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 3. Deploy on heroku
