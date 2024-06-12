@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "TOPU Md"
+      "value": "𝚻𝚯𝚸𝐔 𝚳𝐃"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
