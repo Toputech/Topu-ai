@@ -5,7 +5,7 @@ if (fs.existsSync(".env"))
 global.audio = "";
 global.video = "";
 global.port = process.env.PORT;
-global.appUrl = process.env.APP_URL || "mongodb+srv://giftedte:SER3spXjIJSOwrPT@cluster0.ni61idp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+global.appUrl = process.env.APP_URL || "";
 global.email = "Topudmh@gmail.com";
 global.location = "Njombe,Tanzania.";
 global.mongodb = process.env.MONGODB_URI || "";
