@@ -5,10 +5,10 @@
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Toputechai || node .",
-      "Toputech ": "pm2 start . --deep-monitoring --attach --name Toputechai || node .",
-      "start": "pm2 start . --attach --name Toputechai",
-      "stop": "pm2 stop Toputechai",
+      "run": "pm2 start . --deep-monitoring --attach --name Toputechmd || node .",
+      "Toputech ": "pm2 start . --deep-monitoring --attach --name Toputechmd || node .",
+      "start": "pm2 start . --attach --name Toputechmd",
+      "stop": "pm2 stop Toputechmd",
       "heroku-postbuild": "git clone https://github.com/Toputech/Topu-ai.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
       "fis-heroku-postbuild": "git clone https://github.com/Toputech/Topu-ai.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
