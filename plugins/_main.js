@@ -482,7 +482,7 @@ smd({
   pattern: "repo",
   alias: ["git", "sc", "script"],
   desc: "Sends info about repo",
-  category: "general",
+  category: "https://github.com/Toputech/Topu-ai",
   filename: __filename
 }, async _0x45da98 => {
   try {
