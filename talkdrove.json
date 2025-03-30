@@ -48,16 +48,7 @@
       "description": " Auto save whatsapp status",
       "required": false,
       "value": "false"
-    },
-    "HEROKU_API_KEY": {
-      "description": "Put Your Heroku Api Key Here",
-      "value": "",
-      "required": true
-    },
-    "HEROKU_APP_NAME": {
-      "description": "Put Your Heroku App Name Here",
-      "value": "",
-      "required": true
+
     },
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
